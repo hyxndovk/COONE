@@ -1,0 +1,15 @@
+<svg id="dashboard_black_24dp" xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #3f82ef;
+      }
+    </style>
+  </defs>
+  <path id="패스_13" data-name="패스 13" class="cls-1" d="M0,0H42V42H0Z"/>
+  <path id="패스_14" data-name="패스 14" class="cls-2" d="M35,7v4H27V7h8M15,7V19H7V7h8M35,23V35H27V23h8M15,31v4H7V31h8M39,3H23V15H39ZM19,3H3V23H19ZM39,19H23V39H39ZM19,27H3V39H19Z" transform="translate(0 0)"/>
+</svg>

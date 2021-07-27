@@ -1,0 +1,15 @@
+<svg id="today_black_24dp" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="패스_15" data-name="패스 15" class="cls-1" d="M0,0H23V23H0Z"/>
+  <path id="패스_16" data-name="패스 16" class="cls-2" d="M18.111,2.9h-.944V1H15.278V2.9H7.722V1H5.833V2.9H4.889A1.894,1.894,0,0,0,3,4.8V18.1A1.894,1.894,0,0,0,4.889,20H18.111A1.9,1.9,0,0,0,20,18.1V4.8A1.9,1.9,0,0,0,18.111,2.9Zm0,15.2H4.889V8.6H18.111Zm0-11.4H4.889V4.8H18.111ZM6.778,10.5H11.5v4.75H6.778Z"/>
+</svg>

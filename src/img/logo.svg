@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="392" height="44.1" viewBox="0 0 392 44.1">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #3f82ef;
+      }
+
+      .cls-2 {
+        font-size: 36px;
+        font-family: Current-Regular, Current;
+      }
+
+      .cls-3 {
+        font-size: 16px;
+        font-family: NotoSansKR-Regular, Noto Sans KR;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_2" data-name="그룹 2" transform="translate(-586 -146.9)">
+    <rect id="사각형_2" data-name="사각형 2" class="cls-1" width="146" height="3" transform="translate(632 183.9)"/>
+    <text id="coone" class="cls-2" transform="translate(630 178.9)"><tspan x="0" y="0">coone</tspan></text>
+    <text id="한_눈에_보는_코로나_현황_코원" data-name="한 눈에 보는 코로나 현황 코원" class="cls-3" transform="translate(783 186)"><tspan x="0" y="0">한 눈에 보는 코로나 현황 코원</tspan></text>
+    <g id="dashboard_black_24dp" transform="translate(586 146.9)">
+      <path id="패스_13" data-name="패스 13" class="cls-4" d="M0,0H42V42H0Z"/>
+      <path id="패스_14" data-name="패스 14" class="cls-1" d="M35,7v4H27V7h8M15,7V19H7V7h8M35,23V35H27V23h8M15,31v4H7V31h8M39,3H23V15H39ZM19,3H3V23H19ZM39,19H23V39H39ZM19,27H3V39H19Z" transform="translate(0 0)"/>
+    </g>
+    <text id="coone-2" data-name="coone" class="cls-2" transform="translate(630 178.9)"><tspan x="0" y="0">coone</tspan></text>
+    <g id="dashboard_black_24dp-2" data-name="dashboard_black_24dp" transform="translate(586 146.9)">
+      <path id="패스_13-2" data-name="패스 13" class="cls-4" d="M0,0H42V42H0Z"/>
+      <path id="패스_14-2" data-name="패스 14" class="cls-1" d="M35,7v4H27V7h8M15,7V19H7V7h8M35,23V35H27V23h8M15,31v4H7V31h8M39,3H23V15H39ZM19,3H3V23H19ZM39,19H23V39H39ZM19,27H3V39H19Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

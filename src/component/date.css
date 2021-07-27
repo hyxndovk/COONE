@@ -1,0 +1,28 @@
+.DateBody{
+    width: 100%;
+    height: 70px;
+    background-color: none;
+    border: #6D6D6D 1px solid;
+    border-radius: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.DateInfo{
+    margin-left: 25px;
+    display: grid;
+    grid-template-columns: 23px 1fr;
+    column-gap: 3px;
+}
+
+.DateInfo p{
+    font-family: NotoSans;
+    font-weight: 500;
+    font-size: 21px;
+    color: #FFFFFF;
+}
+
+.DateInfo img{
+    margin-top: 2px;
+}
